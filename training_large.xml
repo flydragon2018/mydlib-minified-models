@@ -1,0 +1,34 @@
+<?xml version='1.0' encoding='ISO-8859-1'?>
+<?xml-stylesheet type='text/xsl' href='image_metadata_stylesheet.xsl'?>
+<dataset>
+<name>Training faces</name>
+<comment>These are images from the PASCAL VOC 2011 dataset.</comment>
+<images>
+  <image file='2007_007763.jpg' width='500' height='375'>
+    <box top='90' left='194' width='50' height='50'/>
+    <box top='114' left='158' width='50' height='50'/>
+    <box top='89' left='381' width='75' height='75'/>
+    <box top='198' left='94' width='50' height='50'/>
+    <box top='214' left='178' width='50' height='50'/>
+    <box top='86' left='294' width='60' height='60'/>
+    <box top='233' left='309' width='70' height='70'/>
+  </image>
+  <image file='2008_002079.jpg' width='500' height='375'>
+    <box top='166' left='407' width='50' height='60'/>
+    <box top='134' left='122' width='50' height='60'/>
+    <box top='138' left='346' width='50' height='50'/>
+    <box top='171' left='433' width='80' height='80'/>
+    <box top='134' left='62' width='40' height='60'/>
+    <box top='170' left='15' width='70' height='80'/>
+  </image>
+  <image file='2008_001009.jpg' width='360' height='480'>
+    <box top='70' left='130' width='100' height='110'/>
+    <box top='200' left='120' width='110' height='140'/>
+  </image>
+  <image file='2008_001322.jpg' width='500' height='375'>
+    <box top='150' left='95' width='100' height='130'/>
+    <box top='200' left='220' width='100' height='110'/>
+    <box top='150' left='340' width='110' height='130'/>
+  </image>
+</images>
+</dataset>
